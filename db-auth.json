@@ -1,0 +1,12 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "username": "StormRobert",
+        "password": "Blan123.",
+        "apiKey": "abcdef123456"
+      }
+    ],
+    "history": []
+  }
+  

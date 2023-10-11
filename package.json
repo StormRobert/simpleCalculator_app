@@ -1,0 +1,25 @@
+{
+  "name": "simplecalculator_app",
+  "version": "1.0.0",
+  "description": "Simple Calculator application",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github/StormRobert/simpleCalculator_app"
+  },
+  "keywords": [
+    "calculate",
+    "clearDisplay",
+    "saveToHistory",
+    "appendToDisplay"
+  ],
+  "author": "Storm Robert",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.4",
+    "json-server-auth": "^2.1.0"
+  }
+}

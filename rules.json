@@ -1,0 +1,8 @@
+{
+    "history": 600,
+    "rules": {
+      "/history": 1,
+      "/*/history": 600
+    }
+  }
+  
